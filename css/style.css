@@ -23,7 +23,7 @@ body {
 }
 
 .logo-name-studio {
-  color:#2e2f42;
+  color: #2e2f42;
 }
 .logo-name {
   font-family: "Raleway", sans-serif;
@@ -31,9 +31,9 @@ body {
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
-  color: #4d5ae5
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: #4d5ae5;
 }
 
 /* hover-nav */
@@ -60,7 +60,7 @@ body {
   color: #434455;
 }
 .adr {
-  font-style: normal
+  font-style: normal;
 }
 
 .header-nav-adr:hover,
