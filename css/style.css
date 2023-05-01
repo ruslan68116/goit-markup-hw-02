@@ -2,6 +2,7 @@
   --main-font-family: "Roboto", sans-serif;
   --secondary-font-family: "Raleway", sans-serif;
   --accent-color: #404bbf;
+
 }
 
 body {
@@ -22,10 +23,9 @@ body {
   background: #ffffff;
 }
 
-.logo-name-studio {
-  color: #2e2f42;
-}
-.logo-name {
+
+
+.web {
   font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
@@ -35,6 +35,12 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
+
+.studio {
+  color: #2e2f42;
+}
+
+
 
 /* hover-nav */
 .nav-name:hover,
