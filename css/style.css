@@ -83,6 +83,7 @@ body {
   letter-spacing: 0.02em;
 
   color: #ffffff;
+  text-align: center;
 }
 
 button {
@@ -104,6 +105,7 @@ button {
 .hero-btn-order:hover,
 .hero-btn-order:focus {
   background: #4d5ae5;
+  background-color: #404bbf;
 }
 .hero-btn-order:active {
   background-color: #404bbf;
