@@ -2,7 +2,7 @@
   --main-font-family: "Roboto", sans-serif;
   --secondary-font-family: "Raleway", sans-serif;
   --accent-color: #404bbf;
-  --studio-color:  #2e2f42;
+  --studio-color: #2e2f42;
 }
 
 body {
@@ -23,7 +23,6 @@ body {
   background: #ffffff;
 }
 
-
 .logo-first {
   font-family: "Raleway", sans-serif;
   font-style: normal;
@@ -35,12 +34,9 @@ body {
   color: #4d5ae5;
 }
 
-.studio {
+.color {
   color: var(--studio-color);
-  
 }
-
-
 
 /* hover-nav */
 .nav-name:hover,
