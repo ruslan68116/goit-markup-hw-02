@@ -2,7 +2,7 @@
   --main-font-family: "Roboto", sans-serif;
   --secondary-font-family: "Raleway", sans-serif;
   --accent-color: #404bbf;
-
+  --studio-color:  #2e2f42;
 }
 
 body {
@@ -34,19 +34,10 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.web {
-  font-family: "Raleway", sans-serif;
-  font-style: normal;
-  font-weight: 800;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #4d5ae5;
-}
 
 .studio {
-  color: #2e2f42;
+  color: var(--studio-color);
+  
 }
 
 
