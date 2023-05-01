@@ -79,11 +79,9 @@ body {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
-
-  letter-spacing: 0.02em;
-
-  color: #ffffff;
   text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
 }
 
 button {
@@ -105,9 +103,6 @@ button {
 .hero-btn-order:hover,
 .hero-btn-order:focus {
   background: #4d5ae5;
-  background-color: #404bbf;
-}
-.hero-btn-order:active {
   background-color: #404bbf;
 }
 
