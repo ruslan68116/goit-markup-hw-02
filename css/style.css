@@ -24,8 +24,7 @@ body {
 }
 
 
-
-.web {
+.logo-first {
   font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
@@ -35,6 +34,7 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
+
 
 .studio {
   color: #2e2f42;
